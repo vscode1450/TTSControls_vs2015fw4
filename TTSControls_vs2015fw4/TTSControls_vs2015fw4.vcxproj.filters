@@ -1,0 +1,213 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="CListCtrlEx">
+      <UniqueIdentifier>{16d7cada-addf-44e0-8632-310e5a5e90ac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CListCtrlEx\CSVLineParser">
+      <UniqueIdentifier>{7c628007-8249-467c-929f-7f86ecd9130f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CListCtrlEx\ListReport">
+      <UniqueIdentifier>{333a0fb6-1c5c-4966-a381-b68461013679}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="TTSControls_vs2015fw4.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TTSControls_vs2015fw4Dlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapKeyed.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BitmapPickerCombo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboBoxCtrlEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ComboBoxCtrlEx1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EditCtrlImage.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="EditCtrlTip.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="ListBoxCtrlEx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Public.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="CListCtrlEx\CSVLineParser\CSVLineParser.h">
+      <Filter>CListCtrlEx\CSVLineParser</Filter>
+    </ClInclude>
+    <ClInclude Include="CListCtrlEx\ListReport\ListItem.h">
+      <Filter>CListCtrlEx\ListReport</Filter>
+    </ClInclude>
+    <ClInclude Include="CListCtrlEx\ListReport\ListReport.h">
+      <Filter>CListCtrlEx\ListReport</Filter>
+    </ClInclude>
+    <ClInclude Include="pch.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyButton.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="TTSControls_vs2015fw4.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TTSControls_vs2015fw4Dlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapKeyed.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BitmapPickerCombo.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboBoxCtrlEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ComboBoxCtrlEx1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EditCtrlImage.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="EditCtrlTip.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="ListBoxCtrlEx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Public.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="CListCtrlEx\CSVLineParser\CSVLineParser.cpp">
+      <Filter>CListCtrlEx\CSVLineParser</Filter>
+    </ClCompile>
+    <ClCompile Include="CListCtrlEx\ListReport\ListItem.cpp">
+      <Filter>CListCtrlEx\ListReport</Filter>
+    </ClCompile>
+    <ClCompile Include="CListCtrlEx\ListReport\ListReport.cpp">
+      <Filter>CListCtrlEx\ListReport</Filter>
+    </ClCompile>
+    <ClCompile Include="pch.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyButton.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="TTSControls_vs2015fw4.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="res\TTSControls_vs2015fw4.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="res\TTSControls_vs2015fw4.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\01.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\03.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\06.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\08.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\11.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\OK.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\111.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\find.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\ico_coins.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\png\00078[32x32x8BPP].png">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon7.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\04.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\05.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\07.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\09.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\skin_2162.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\icon1.ico">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\bitmap4.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="C:\Users\wjf\Desktop\b112.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\b3.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+    <Image Include="res\b112.bmp">
+      <Filter>资源文件</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
